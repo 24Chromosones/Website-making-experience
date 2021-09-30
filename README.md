@@ -11,4 +11,4 @@ TO DO ANYTHING. WHEN I ASKED MY COMP MAJOR BROTHER HE JUST TOLD ME TO USE A MAC.
 Pictures
 --------
 
-![Pain]{https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/118/skull_1f480.png}
+![Pain](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/118/skull_1f480.png)
