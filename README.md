@@ -12,3 +12,5 @@ Pictures
 --------
 
 ![Pain](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/118/skull_1f480.png)
+
+![cow abduction](https://tenor.com/view/meme-gif-18452995)
