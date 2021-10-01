@@ -1,4 +1,4 @@
-Andy Khau
+24Chromosones
 =========
 
 Profile Page Suffering Blog
@@ -17,3 +17,5 @@ Pictures Describing My Process
 ![Pain](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/118/skull_1f480.png)
 
 ![cow abduction](https://c.tenor.com/iVwlJoYX_0IAAAAd/meme.gif)
+
+![thumbnail](https://cdn.discordapp.com/attachments/724988057853362236/893316072869081109/freelook.gif)
