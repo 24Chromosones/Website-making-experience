@@ -18,4 +18,3 @@ Pictures Describing My Process
 
 ![cow abduction](https://c.tenor.com/iVwlJoYX_0IAAAAd/meme.gif)
 
-![thumbnail](https://cdn.discordapp.com/attachments/724988057853362236/893316072869081109/freelook.gif)
